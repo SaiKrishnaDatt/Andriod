@@ -2,4 +2,4 @@
 
 Screen-1 :
 
-![Test Image 6](screen/output-screen.png)
+![Alt text](https://github.com/SaiKrishnaDatt/Android/blob/main/app/screen/output-screen.png)
